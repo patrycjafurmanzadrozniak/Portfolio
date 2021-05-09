@@ -11,7 +11,6 @@
 - Confluence
 - Agile
 - Postman
-- Selenium WebDriver
 ## Skills
 - Creating test cases
 - Reporting bugs
