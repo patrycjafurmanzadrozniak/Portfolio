@@ -25,11 +25,16 @@
 
 ## Skills
 - SQL
-- basic Java
-- UX
-- Creating test cases
+- Excel
+- Creating test cases and scenarios
 - Reporting bugs
 - Diagrams, decision tables and mind maps
+
+## Bug report for Starbucks mobile app
+[Starbucks](https://drive.google.com/file/d/1Y5pbOIg7d_7JIY6ECLXbXMP8uOgQ4QlI/view?usp=sharing)
+
+## Test scenarios and test cases for Reebok.com
+[Reebok](https://drive.google.com/file/d/1aDClAmMXHrz1GYtTgKmPHMJbVBAeJ60f/view?usp=sharing)
 
 ## Courses
 - [Programming Foundations: Software Testing/QA](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-the-standard-with-quality-assurance-qa)
@@ -46,7 +51,6 @@
 - [Agile Testing](https://books.google.pl/books/about/Agile_Testing.html?id=68_lhPvoKS8C&redir_esc=y)
 - [Zawód Tester](https://ksiegarnia.pwn.pl/Zawod-tester.-Od-decyzji-do-zdobycia-doswiadczenia,743423772,p.html)
 - [Fun with bugs](https://www.funwithbugs.com/store/)
-- [Java - programowanie praktyczne od podstaw](https://ksiegarnia.pwn.pl/Java-Programowanie-praktyczne-od-podstaw,68475457,p.html)
 
 ## Interesting websites and blogs
 - [Guru99](https://www.guru99.com/)
