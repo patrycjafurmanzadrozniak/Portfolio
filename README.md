@@ -33,6 +33,10 @@
 ## Bug report for Starbucks mobile app
 [Starbucks](https://drive.google.com/file/d/1Y5pbOIg7d_7JIY6ECLXbXMP8uOgQ4QlI/view?usp=sharing)
 
+## Bug report for Starbucks website
+[Starbucks' bug report](https://drive.google.com/file/d/1ohzUs2YyE7Y64ZH40XG2Tdeure-EKn4e/view?usp=sharing)
+[Screen recording](https://drive.google.com/file/d/15wg7qRFWxLxSnDjl9UCE8bOak0ToWBem/view?usp=sharing)
+
 ## Test scenarios and test cases for Reebok.com
 [Reebok](https://drive.google.com/file/d/1aDClAmMXHrz1GYtTgKmPHMJbVBAeJ60f/view?usp=sharing)
 
