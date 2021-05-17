@@ -34,7 +34,7 @@
 - [Starbucks](https://drive.google.com/file/d/1Y5pbOIg7d_7JIY6ECLXbXMP8uOgQ4QlI/view?usp=sharing)
 
 ## Bug report for Starbucks website
-- [Starbucks' bug report](https://drive.google.com/file/d/1ohzUs2YyE7Y64ZH40XG2Tdeure-EKn4e/view?usp=sharing)
+- [Starbucks' bug report](https://drive.google.com/file/d/1s60rVWk81qovARvcZkMCZcjdg9Z4SUiY/view?usp=sharing)
 - [Screen recording](https://drive.google.com/file/d/1w5l9ygOi4-mVx8LGPeXF8pDC4KTAtnyP/view?usp=sharing)
 
 ## Test scenarios and test cases for Reebok.com
